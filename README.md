@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, soy Manuel</h1>
-<h3 align="center">Recientemente titulado en Desarrollo de Aplicaciones Web, apa</h3>
+<h3 align="center">Recientemente titulado en Desarrollo de Aplicaciones Web</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
